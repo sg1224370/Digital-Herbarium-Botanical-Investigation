@@ -69,7 +69,7 @@ Records marked as **probable/provisional** should be verified using additional p
 
 **Submitted to:** Kirti Mam
 
-## 🗂️ Suggested Repository Structure
+## 🗂️ Repository Structure
 
 ```text
 digital-herbarium/
@@ -82,13 +82,9 @@ digital-herbarium/
 ├── CONTRIBUTING.md
 ├── .gitignore
 ├── LICENSE
-└── assets/
-    ├── plants/
-    ├── screenshots/
-    └── documents/
 ```
 
-> The current prototype is self-contained, so the plant data and photographic assets are embedded inside the HTML. The structure above is recommended if the project is later separated into maintainable files.
+> The current prototype is self-contained, so the plant data and photographic assets are embedded inside the HTML.
 
 ## 🚀 How to Run
 
